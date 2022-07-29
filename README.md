@@ -1,5 +1,3 @@
-# ardacraft.github.io
-
-Github site for ArdaCraft
+Github site for SupernovaLauncher
 
 Currently hosting the launcher files
