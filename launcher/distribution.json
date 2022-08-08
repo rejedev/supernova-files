@@ -2,23 +2,23 @@
     "version": "1.0.0",
     "rss": "https://forums.ardacraft.me/c/announcements/5.rss",
     "discord": {
-      "clientId": "734960858504888431",
-      "smallImageText": "ArdaCraft",
-      "smallImageKey": "seal-circle"
+      "clientId": "995552438062948412",
+      "smallImageText": "by rejeditt",
+      "smallImageKey": "loginmain"
     },
     "servers": [
       {
         "id": "main-1.18.2",
-        "name": "ArdaCraft Main",
-        "description": "ArdaCraft Running Minecraft 1.18.2 (Forge v40.1.51)",
-        "icon": "https://rejedev.github.io/supernova-files/launcher/assets/logo.png",
+        "name": "DeadCraft 2",
+        "description": "Servidor BETA DeadCraft 2",
+        "icon": "https://media.discordapp.net/attachments/916031327940264007/1003797548147933305/DEADCRAFT2_CF.png?width=1040&height=1040",
         "version": "1.0.0",
         "address": "mc.ardacraft.me:25565",
         "minecraftVersion": "1.18.2",
         "discord": {
-          "shortId": "Main",
-          "largeImageText": "ArdaCraft Server",
-          "largeImageKey": "server-main"
+          "shortId": "DeadCraft 2",
+          "largeImageText": "DeadCraft 2",
+          "largeImageKey": "dcraftbg"
         },
         "mainServer": true,
         "serverCode": "09568",
