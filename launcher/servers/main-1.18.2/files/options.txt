@@ -36,10 +36,10 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:false
-resourcePacks:["vanilla","mod_resources","file/CRRP-1.18.2-7.0.31.zip","file/AC_Overlay-2.7.6.zip"]
+resourcePacks:["vanilla","mod_resources","file/yatusabe.zip"]
 incompatibleResourcePacks:[]
 lastServer:
-lang:en_us
+lang:es_mx
 soundDevice:
 chatVisibility:0
 chatOpacity:1.0
@@ -118,8 +118,8 @@ key_Search:key.keyboard.unknown
 key_Palette GUI:key.keyboard.c
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
-soundCategory_master:0.0
-soundCategory_music:0.0
+soundCategory_master:1.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
